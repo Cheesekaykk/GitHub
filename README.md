@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="![24](https://github.com/Cheesekaykk/GitHub/assets/116662074/bbe4de1b-23d5-44c3-916e-7e1ca8bb2b75)"  />
+  <img height="150" src="https://github.com/Cheesekaykk/GitHub/assets/116662074/bbe4de1b-23d5-44c3-916e-7e1ca8bb2b75"  />
 </div>
 
 ###
