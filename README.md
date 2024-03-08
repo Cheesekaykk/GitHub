@@ -1,8 +1,7 @@
-<div style="text-align: center;" >
-  <h1>Cheesekaykk</h1>
-  <h2>Jan Michael G. Miravalles</h2>
-  <h3>Bachelor of Science in Computer Science, 3rd Year, Technological Institute of The Philippines</h3>
-</div>
+<h1 style="text-align: center;" >Cheesekaykk</h1>
+<h2 style="text-align: center;" >Jan Michael G. Miravalles</h2>
+<h3 style="text-align: center;" >Bachelor of Science in Computer Science, 3rd Year, Technological Institute of The Philippines</h3>
+
 <br>
 <br>
 <p>Hello there~! I am <em><b>Jan Michael G. Miravalles</b></em> a 3rd Year BSCS in Technological Institute of the Philippines (TIP)</p>
