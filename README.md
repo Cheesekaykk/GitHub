@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Jan Michael G Miravalles || Cheesekaykk <br><br>- 🔭 I’m currently studying at Technological Institute of the Philippines || TIP ...<br>- 📚 I'm currently learning how to use GitHub<br>- ⚡ In my free time I usually like to improve more on myself</p>
+<p align="left">I'm Jan Michael G Miravalles || Cheesekaykk <br><br>- 🔭 I’m currently studying at Technological Institute of the Philippines || TIP <br>- 📚 I'm currently learning how to use GitHub<br>- ⚡ In my free time I usually like to improve more on myself <br> Email: mjmmiravalles@tip.edu.ph </p>
 
 ###
 
