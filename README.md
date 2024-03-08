@@ -1,4 +1,15 @@
-<center><h1>Cheesekaykk</h1></center>
+<html>
+  <head>
+    <style>
+      h1 {text-align: center;}
+      h2 {text-align: center;}
+      h3 {text-align: center;}
+    </style>
+  </head>
+</html>
+
+
+<h1>Cheesekaykk</h1>
 <h2>Jan Michael G. Miravalles</h2>
 <h3>Bachelor of Science in Computer Science, 3rd Year, Technological Institute of The Philippines</h3>
 
